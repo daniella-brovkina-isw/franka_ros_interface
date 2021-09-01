@@ -46,7 +46,7 @@ your_ip=""
 # ----- THIS VALUE IS NEEDED ONLY IF YOU WILL USE THE 'remote' ENVIRONMENT ON THIS MACHINE.
 ROS_MASTER_IP=""
 
-ros_version="melodic"
+ros_version="noetic"
 
 ## ========================================= #
 ## ========== USAGE EXPLAINED ============== #
